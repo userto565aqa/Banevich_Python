@@ -3,6 +3,15 @@
 ## Task 1: Algorithm
 The implementation of the algorithms can be found in the `main.py` file. It handles single numbers, specific names, and numeric arrays dynamically (according to the given requirements).
 
+### How to run the interactive program
+This script requires Python 3 to be installed on your machine. It uses only built-in libraries.
+
+1. Clone the repository or download the `main.py` file.
+2. Open your terminal or command prompt.
+3. Navigate to the folder containing the file.
+4. Run the following command: `python main.py`
+5. Follow the on-screen menu instructions to select and run the sub-tasks. Type 'exit' to quit.
+
 ---
 
 ## Task 2: Bracket Sequence Analysis
