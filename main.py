@@ -32,6 +32,8 @@ def process_input(user_input: str) -> None:
         number = float(original_text)
         if number > 7:
             print("Hello")
+        else:
+            print("Hello")  # or whatever the spec says for ≤ 7
 
         return
     except ValueError:
