@@ -40,7 +40,7 @@ def process_input(user_input: str) -> None:
         pass
 
     # name
-    if original_text == "John":
+    if original_text.lower() == "john":
         print("Hello, John")
     else:
         print("There is no such name")
